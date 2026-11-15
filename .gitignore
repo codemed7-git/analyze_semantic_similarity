@@ -1,0 +1,22 @@
+# env / secrets
+.env
+*.session
+*.session-journal
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ide
+.idea/
+.vscode/
+
+# data / results
+data/*
+!data/.gitkeep
+*.db
+result_*.json
+*.png

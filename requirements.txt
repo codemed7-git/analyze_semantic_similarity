@@ -1,0 +1,11 @@
+telethon
+python-dotenv
+nltk
+rank-bm25
+scikit-learn
+pymorphy3
+emoji
+pandas
+matplotlib
+seaborn
+requests
